@@ -2,6 +2,7 @@
 <title>Evan Coury's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Hunter (Level 4)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 3)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Cathedral Architect (Level 2)</title><description>Added a submodule to a repository.</description></item>
-<item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
 </channel></rss>
